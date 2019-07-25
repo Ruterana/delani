@@ -14,3 +14,16 @@
     font-family: 'Merriweather', serif;
 font-family: 'Noto Sans', sans-serif;
 }
+h3{
+ text-align: center;
+}
+.card2{
+    text-align: center;
+}
+.card3{
+/*     
+   padding: 200px 200px; */
+   /* text-align: center; */
+   font-family: 'Merriweather', serif;
+    font-family: 'Noto Sans', sans-serif;  
+}
