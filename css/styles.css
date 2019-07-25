@@ -1,5 +1,5 @@
 
-.logo{
+.card{
     background-image: url(../images/h_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,21 +7,10 @@
    padding: 200px 200px;
    text-align: center;
    font-family: 'Merriweather', serif;
-font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
-h1{
+.first{
     color: white;
     font-family: 'Merriweather', serif;
 font-family: 'Noto Sans', sans-serif;
-}
-h2{
-    color:white;
-    font-family: 'Merriweather', serif;
-font-family: 'Noto Sans', sans-serif;
-}
-h6{
-    color:white;
-    font-family: 'Merriweather', serif;
-font-family: 'Noto Sans', sans-serif;
-padding: 80px 80px;
 }
