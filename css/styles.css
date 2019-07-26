@@ -39,36 +39,8 @@ h4{
     font-family: 'Merriweather', serif;
     font-family: 'Noto Sans', sans-serif;
 }
-/* Float three columns side by side */
-.column {
-    float: left;
-    width: 25%;
-    padding: 0 10px;
-  }
-  .row2 {margin: 0 -5px;
-}
-
-@media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-  }
-  .card5 {
-    
-    padding: 16px;
-    text-align: center;
-}
-  .card6{
+.row{
      
-    padding: 16px;
-    text-align: center;
-    }
-    .card7{
-        
-        padding: 16px;
-        text-align: center;}
-  
-
-
+}
+     
+    
