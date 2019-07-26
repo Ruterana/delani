@@ -59,14 +59,14 @@ h4{
     border-radius: 1px solid white;
     
 }
-     ::placeholder{
-    color:white;
-     }
 
     .footer{
         text-align: center;
     }
-    
+    /*color for input*/
+    .form-control{
+        color:white;
+    }
 .cons{
     display:show;
 }
@@ -79,3 +79,5 @@ h4{
     .third-icon{
         display: none;
     }
+    
+
