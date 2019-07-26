@@ -1,11 +1,24 @@
 $(document).ready(function(){
-   $("img#cons").click(function(){
-$("#first-icon").toggle();
+   $(".cons").click(function(){
+$(".clcs").toggle();
+    $(".first-icon").toggle();
    });
-   $("img#con").click(function(){
-$("#second-icon").toggle();
+   $(".cons").click(function(){
+    $(".clcs").toggle();
+        $(".first-icon").toggle();
+       });
+   /****developmennt*/
+   $("img.con").click(function(){
+      $('.cls1').toggle();
+      $(".second-icon").toggle();
    });
-   $("img#coni").click(function(){
-$("#third-icon").toggle();
+   $(".second-icon").click(function(){
+    $(".cls1").toggle();
+    $(".second-icon").toggle();
+ });
+  $("img.coni").click(function(){
+      $(".cls2").toggle();
+ $(".third-icon").toggle();
+
    });
 });

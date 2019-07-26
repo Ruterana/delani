@@ -59,22 +59,23 @@ h4{
     border-radius: 1px solid white;
     
 }
-     
+     ::placeholder{
+    color:white;
+     }
+
     .footer{
         text-align: center;
     }
-    form#frm::placeholder{
-      color:white;  
-    }
-#cons{
+    
+.cons{
     display:show;
 }
-    #first-icon{
+    .first-icon{
         display: none;
     }
-    #second-icon{
+    .second-icon{
         display: none;
     }
-    #third-icon{
+    .third-icon{
         display: none;
     }
