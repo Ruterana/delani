@@ -42,5 +42,21 @@ h4{
 .row{
      
 }
+.foorm{
+    background-image: url(../images/c_image.jpg); 
+    background-repeat: no-repeat;
+    text-align: center;
+   padding: 200px 200px;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+    
+}
+.form-control{
+    background-color: transparent;
+    border-radius: 0px;
+    border-radius: 1px solid white;
+}
      
     
