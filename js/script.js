@@ -21,4 +21,11 @@ $(".clcs").toggle();
  $(".third-icon").toggle();
 
    });
+   /*** submit on input*/
+   $(".foorm").submit(function(){
+var inputName=$("#name").val();
+var inputEmail=$("#Email").val();
+var x=$("#text").val();
+alert(inputName+" I receive your message. ");
+   } );
 });
