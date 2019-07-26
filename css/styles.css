@@ -63,3 +63,18 @@ h4{
     .footer{
         text-align: center;
     }
+    form#frm::placeholder{
+      color:white;  
+    }
+#cons{
+    display:show;
+}
+    #first-icon{
+        display: none;
+    }
+    #second-icon{
+        display: none;
+    }
+    #third-icon{
+        display: none;
+    }
