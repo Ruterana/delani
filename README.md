@@ -13,7 +13,7 @@ They collaborate with your team to write, and improve code on a daily basis, usi
 Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. 
 This iterative process allows for changes as business requirements evolve.
 ## Author's information
-my name is Niyitanga charlene,Am the on who developed site.also am a student in moringa school.to know more contact me throught my email:ncharlene38@gmail.com.
+my name is Niyitanga charlene,Am the on who developed site.also am a student in moringa school.to know more contact me throught my email:ncharlene38@gmail.com.<br>this delani studio was created on 26.07.2019.
 and  my phone number:+250783853580.
 ## Setup/Installation Requirements
 * find code editor
