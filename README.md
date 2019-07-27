@@ -22,7 +22,7 @@ and  my phone number:+250783853580.
 * link java script to your html
 * link your jquery to html
 * cd Desktop
-* cd akaname
+* cd delani
 * git clone
 * code .
 * download juery in order to use which is new virsion so for me i use this one jquery-3.4.1.js
