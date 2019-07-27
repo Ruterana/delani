@@ -31,9 +31,7 @@ and  my phone number:+250783853580.
 this application was developed by using html  css,bootstrap and javascript and jquery.and also i used google fonts.
 ## Contact information.
 for any suggestion or idea or any issues please contact me on my email:ncharlene38@gmail.com
-phone number:+250783853580.
-##Link to  my web site
-
+phone number:+250783853580.<br>
 ### License and Copyright information.
  MIT license
  copyright(c)2019 charlene niyitanga
