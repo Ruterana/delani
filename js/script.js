@@ -36,7 +36,7 @@ $(document).ready(function () {
         var inputEmail = $("#Email").val();
         var x = $("#text").val();
         if (inputName == "" || inputEmail == "" || x == "") {
-            alert("please fill the form");
+             alert("please write amessage before you submit ok??!!");
         }
         else {
             alert(inputName + " I receive your message.thank you!!. ");

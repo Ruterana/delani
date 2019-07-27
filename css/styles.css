@@ -1,4 +1,4 @@
-
+/*style for  first image*/
 .card{
     background-image: url(../images/h_img.jpg);
     background-repeat: no-repeat;
@@ -22,44 +22,49 @@ h3{
     font-family: 'Merriweather', serif;
     font-family: 'Noto Sans', sans-serif;
 }
+/*style for second image*/
 .card3{
 
     background-image: url(../images/s_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-   padding: 200px 200px;
-   text-align: center;
-   font-family: 'Merriweather', serif;
-    font-family: 'Noto Sans', sans-serif;
-    color: white;
-}
-h4{
+    padding: 200px 200px;
     text-align: center;
     font-family: 'Merriweather', serif;
     font-family: 'Noto Sans', sans-serif;
-}
-.row{
-     
-}
-.foorm{
+    color: white;
+    }
+    h4{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Sans', sans-serif;
+    }
+    .foorm{
     background-image: url(../images/c_image.jpg); 
     background-repeat: no-repeat;
     text-align: center;
-   padding: 200px 200px;
-   text-align: center;
-   font-family: 'Merriweather', serif;
+    padding: 200px 200px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
     font-family: 'Noto Sans', sans-serif;
     color: white;
-    
-}
-.form-control{
+    }
+/*STYLES FOR FORM*/
+    .form-control{
     background-color: transparent;
     border-radius: 0px;
     border-radius: 1px solid white;
-    
-}
-
+    }
+    #tete{
+    background-color: transparent;
+    border-radius: 0px;
+    border-radius: 1px solid white; 
+    color: white;    
+    }
+    ::placeholder{
+    color:white;
+    }
     .footer{
         text-align: center;
     }
@@ -67,9 +72,9 @@ h4{
     .form-control{
         color:white;
     }
-.cons{
+    .cons{
     display:show;
-}
+  }
     .first-icon{
         display: none;
     }
