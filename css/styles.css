@@ -60,7 +60,8 @@ h3{
     background-color: transparent;
     border-radius: 0px;
     border-radius: 1px solid white; 
-    color: white;    
+    color: white;   
+ 
     }
     ::placeholder{
     color:white;
@@ -84,6 +85,7 @@ h3{
     .third-icon{
         display: none;
     }
+    /*style about hovering for image one*/ 
     .mgn{
         position: absolute;
         padding-left: 80px;
@@ -92,5 +94,70 @@ h3{
     #mgb{
         position: relative;
     }
+    /*image2*/
+    .paragraph2{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #mgc{
+        position: relative;
+    }
+    /*image3*/
+    .paragraph3{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #mgd{
+        position: relative;
+    }
+    /*image4*/
+    .paragraph4{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #mgE{
+        position: relative;
+    }
+    /*image5*/
+    .paragraph5{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #imgf{
+        position: relative;
+    }
+    /*image6*/
+    .paragraph6{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #imgG{
+        position: relative;
+    }
+    /*image7*/
+    .paragraph7{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #imgH{
+        position: relative;
+    }
+    /*image8*/
+    .paragraph8{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #imgI{
+        position: relative;
+    }
+    
+    
     
 
