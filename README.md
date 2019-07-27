@@ -14,7 +14,7 @@ Planning and development is iterative. Because we are constantly coding and test
 This iterative process allows for changes as business requirements evolve.
 ## Author's information
 my name is Niyitanga charlene,Am the on who developed delani studio.also am a student in moringa school.to know more contact me throught my email:ncharlene38@gmail.com.<br>this delani studio was created on 26.07.2019.
-and  my phone number:+250783853580.
+and  my phone number:+250783853580 or +250725353547.
 ## Setup/Installation Requirements
 * find code editor which called visual studio
 * install ubuntu operating system into your machine or other terminal
