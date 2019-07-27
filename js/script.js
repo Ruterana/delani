@@ -36,7 +36,7 @@ var inputEmail = $("#Email").val();
 alert("please write amessage before you submit ok??!!");
  }
 else {
- alert(inputName + " I receive your message.thank you!!. ");
+ alert(inputName + " I receive your message.thank you for contact us!!. ");
 }
 event.preventDefault();
 });

@@ -13,16 +13,16 @@ They collaborate with your team to write, and improve code on a daily basis, usi
 Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. 
 This iterative process allows for changes as business requirements evolve.
 ## Author's information
-my name is Niyitanga charlene,Am the on who developed site.also am a student in moringa school.to know more contact me throught my email:ncharlene38@gmail.com.<br>this delani studio was created on 26.07.2019.
+my name is Niyitanga charlene,Am the on who developed delani studio.also am a student in moringa school.to know more contact me throught my email:ncharlene38@gmail.com.<br>this delani studio was created on 26.07.2019.
 and  my phone number:+250783853580.
 ## Setup/Installation Requirements
-* find code editor
+* find code editor which called visual studio
 * install ubuntu operating system into your machine or other terminal
-* download bootstrap  and then copy file of boostrap which called bootstrap.css.
+* download bootstrap  and then copy file of boostrap which called bootstrap.css.and download jquery and jquery-3.4.1.js<br>copy file which called
 * link java script to your html
 * link your jquery to html
 * cd Desktop
-* cd akaname
+* cd delani
 * git clone
 * code .
 * download juery in order to use which is new virsion so for me i use this one jquery-3.4.1.js
