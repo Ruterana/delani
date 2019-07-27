@@ -27,9 +27,7 @@ $(document).ready(function () {
     $(".third-icon").click(function () {
         $(".cls3").toggle();
         $(".third-icon").toggle();
-
     });
-
     /*** submit on input*/
     $(".foorm").submit(function (event) {
         var inputName = $("#name").val();
@@ -44,16 +42,17 @@ $(document).ready(function () {
         event.preventDefault();
     });
 
-//     $(".mgn").hide();
-//     $("mg1").animate({
-//         opacity: 0.7
-//     });
-//     $(".mgb").hover(function () {
-//         $(this).stop().animate({ opacity: 3 });
-//         $(".mgn").fadeIn();
-//     }, function () {
-//         $(this).stop().animate({ opacity: 1 });
-//         $(".mgn").fadeOut();
-//     }
-// })
+  $(".mgn").hide();
+ $("#mgb").animate({
+        opacity: 0.5
+     });
+  $("#mgb").hover(function () {
+         $(this).stop()
+        $(".mgn").fadeIn();
+    }, function () {
+        $(this).stop()
+        $(".mgn").fadeOut();
+    });
+
 });
+

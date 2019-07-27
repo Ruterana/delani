@@ -84,5 +84,13 @@ h3{
     .third-icon{
         display: none;
     }
+    .mgn{
+        position: absolute;
+        padding-left: 80px;
+        padding-top: 80px;
+    }
+    #mgb{
+        position: relative;
+    }
     
 
