@@ -43,13 +43,13 @@ event.preventDefault();
 /*opacity and hovering for image*/
 $(".mgn").hide();
 $("#mgb").animate({
-opacity: 0.5
+opacity: 1
 });
 $("#mgb").hover(function () {
- $(this).stop()
+ $(this).stop().animate({opacity:0.5},200);
 $(".mgn").fadeIn();
 }, function () {
-$(this).stop()
+$(this).stop().animate({opacity:1},500)
  $(".mgn").fadeOut();
 });
 /*opacity and hovering for image2*/
@@ -58,10 +58,10 @@ $("#mgc").animate({
  opacity: 0.5
 });
 $("#mgc").hover(function () {
-$(this).stop()
+$(this).stop().animate({opacity:0.5},200);
 $(".paragraph2").fadeIn();
 }, function () {
-$(this).stop()
+$(this).stop().animate({opacity:1},500)
 $(".paragraph2").fadeOut();
  });
 /*opacity and hovering for image3*/
@@ -70,10 +70,10 @@ $(".paragraph3").hide();
         opacity: 0.5
 });
 $("#mgd").hover(function () {
-$(this).stop()
+$(this).stop().animate({opacity:0.5},200);
 $(".paragraph3").fadeIn();
  }, function () {
-$(this).stop()
+$(this).stop().animate({opacity:1},500)
 $(".paragraph3").fadeOut();
 });
  /*opacity and hovering for image4*/
@@ -82,10 +82,10 @@ $("#mgE").animate({
        opacity: 0.5
 });
 $("#mgE").hover(function () {
-$(this).stop()
+$(this).stop().animate({opacity:0.5},200);
 $(".paragraph4").fadeIn();
 }, function () {
-$(this).stop()
+$(this).stop().animate({opacity:1},500)
 $(".paragraph4").fadeOut();
    });   
 /*opacity and hovering for image5*/
@@ -94,10 +94,10 @@ $("#imgf").animate({
 opacity: 0.5
 });
 $("#imgf").hover(function () {
- $(this).stop()
+ $(this).stop().animate({opacity:0.5},200);
 $(".paragraph5").fadeIn();
 }, function () {
-$(this).stop()
+$(this).stop().animate({opacity:1},500)
 $(".paragraph5").fadeOut();
 });
 /*opacity and hovering for image6*/
@@ -106,10 +106,10 @@ $("#imgG").animate({
 opacity: 0.5
 });
 $("#imgG").hover(function () {
-$(this).stop()
+$(this).stop().animate({opacity:0.5},200);
 $(".paragraph6").fadeIn();
 }, function () {
-$(this).stop()
+$(this).stop().animate({opacity:1},500)
 $(".paragraph6").fadeOut();
 }); 
    /*opacity and hovering for image7*/
@@ -118,10 +118,10 @@ $("#imgH").animate({
 opacity: 0.5
 });
 $("#imgH").hover(function () {
-$(this).stop()
+$(this).stop().animate({opacity:0.5},200);
 $(".paragraph7").fadeIn();
 }, function () {
-$(this).stop()
+$(this).stop().animate({opacity:1},500)
 $(".paragraph7").fadeOut();
 }); 
    /*opacity and hovering for image8*/
@@ -130,10 +130,10 @@ $("#imgI").animate({
 opacity: 0.5
  });
  $("#imgI").hover(function () {
-$(this).stop()
+$(this).stop().animate({opacity:0.5},200);
 $(".paragraph8").fadeIn();
 }, function () {
- $(this).stop()
+ $(this).stop().animate({opacity:1},500)
  $(".paragraph8").fadeOut();
 });                        
 });
